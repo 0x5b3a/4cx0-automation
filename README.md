@@ -1,5 +1,5 @@
 # 4cx0-Automation Script  
-The aim of this script to be a full automated custom installer *after* installing the main distro.  
+The aim of this script to be a fully automated custom installer **after** installing the main distro.  
 ---
 
 ### TODO
